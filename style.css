@@ -1,0 +1,275 @@
+
+body {
+    background-color: #F5E6E8; /* Soft pastel pink */
+    background-size: cover; /* Cover the entire screen */
+    background-blend-mode: color;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    font-family: 'Anek Devanagari', arial, serif; 
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    color: black; /* Adjust link color */
+   
+}
+
+
+/* img */
+.img {
+    border-radius: 50%;
+}
+
+
+.imgcontainer {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    /* justify-content: center; */
+    margin: 100px;
+    
+}
+
+/* icons */
+.logo {
+    background: #007bb5; /* Background color */
+    color: white; /* Text color */
+    padding: 5px 10px; /* Padding for spacing */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1.0rem; /* Font size */
+    display: inline-flex; /* Align items horizontally */
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    text-align: center; /* Center text */
+}
+
+.logo:hover {
+    background: #005a87; /* Darker background color on hover */
+    transform: scale(1.1); /* Slightly larger on hover */
+} 
+
+/* home section */
+
+.home-section {
+    margin: 50px;
+    padding: 50px;
+    justify-content: center;
+    float: right;
+    margin-bottom: 350px;
+    margin-left: 50px;
+    padding-bottom: 350px;
+}
+
+/* menu section */
+.menu-holder {
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.menu-list li {
+    display: inline;
+    /* justify-content: center; */
+    margin: 50px;
+    height: auto;
+    
+
+    
+    
+}
+
+.menu-list a {
+    text-decoration: none;
+    color: black; /* Adjust link color */
+    font-weight: bold;
+    font-size: 1.2rem; /* Adjust font size for better visibility */
+    /* transition-delay:0ms; */
+
+}
+
+.menu-list a:hover {
+    color: orange;
+}
+
+/* parallax + animations and transitions */
+
+.parallax-section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+    opacity: 0;
+    filter: blur(5px);
+    transform: translate(-100%);
+    transition: all 1s;
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
+/* about section */
+
+
+.about-text {
+    position: relative;
+    left: 400px;
+    bottom: 60px;
+    display: inline-block;
+    background-color: white;
+    
+    /* align-items: right; */
+    margin: 50px;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+.col-md-8 {
+    margin: 100px;
+    padding: 100px;
+
+}
+
+.info-list {
+    position: relative;
+    top: 300px;
+    float: left;
+    margin: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    
+}
+
+.resume {
+    /* display: inline-block; */
+    padding: 12px 24px;
+    margin-top: 20px;
+    background-color: #FFC1A1; /* Warm pastel peach */
+    color: #393E46;
+    font-size: 1rem;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    float: right;
+}
+
+.resume:hover {
+    background-color: #FF9E7A;
+    transform: translateY(-5px);
+}
+
+
+/* Projects Area */
+
+.project1 {
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin: 25px;
+    float: left;
+
+    /* padding: 25px; */
+}
+
+.project2 {
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin: 25px;
+    float: left;
+
+    /* padding: 25px; */
+}
+
+.project3 {
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin: 25px;
+    float: left;
+
+    /* padding: 25px; */
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.p1writing {
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+}
+
+.project1 :hover {
+    background-color: beige;
+    color: black;
+}
+
+.p2writing {
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+}
+
+.project2 :hover {
+    background-color: beige;
+    color: black;
+}
+
+.p3writing {
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+}
+
+.project3 :hover {
+    background-color: beige;
+    color: black;
+}
+
+
+/* feedback area */
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+
+button {
+    background-color:  rgb(144, 46, 201);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+    transition: .2s linear;
+}
+
+button:hover {
+    background-color: rgb(144, 46, 201);
+    border: none;
+    transform: translateY(10px);
+}
+
+
+
+
+
