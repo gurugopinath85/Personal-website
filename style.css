@@ -12,33 +12,17 @@ body {
    
 }
 
-
-/* img */
-.img {
-    border-radius: 50%;
-}
-
-
-.imgcontainer {
-    width: 200px;
-    height: 200px;
-    display: flex;
-    /* justify-content: center; */
-    margin: 100px;
-    
-}
-
 /* icons */
 .logo {
     background: #007bb5; /* Background color */
     color: white; /* Text color */
     padding: 5px 10px; /* Padding for spacing */
     border-radius: 5px; /* Rounded corners */
-    font-size: 1.0rem; /* Font size */
-    display: inline-flex; /* Align items horizontally */
-    align-items: center; /* Center content vertically */
-    justify-content: center; /* Center content horizontally */
-    text-align: center; /* Center text */
+    font-size: 1.0rem; 
+    display: inline-flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
 }
 
 .logo:hover {
@@ -74,10 +58,6 @@ body {
     /* justify-content: center; */
     margin: 50px;
     height: auto;
-    
-
-    
-    
 }
 
 .menu-list a {
@@ -143,6 +123,8 @@ body {
     padding: 50px;
     
 }
+
+/* Resume button */
 
 .resume {
     /* display: inline-block; */
@@ -239,8 +221,10 @@ body {
     color: black;
 }
 
+/* To be added */
 
-/* feedback area */
+
+/* feedback/form area */
 input,
 textarea {
     width: 100%;
