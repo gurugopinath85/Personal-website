@@ -16,7 +16,7 @@ const observer = new IntersectionObserver((entries) => {
 const test = document.querySelectorAll(".parallax-section");
 test.forEach((el) => observer.observe(el));
 
-
+// Form Submission 
 const contactForm = document.querySelector(".contact-form");
 let nameEl = document.getElementById("name");
 let messageEl = document.getElementById("message");
@@ -60,7 +60,7 @@ contactForm.addEventListener("submit", (event) => {
         alert("Failed to send email. Please check your internet connection.");
     }
 
-    xhr.send(JSON.stringify(formData));
+    xhr.send(JSON.stringify(formData)); // sent in proper format
 })
 
 
