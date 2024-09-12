@@ -22,9 +22,6 @@ This portfolio is designed to provide a comprehensive view of my professional ex
 # Continuous Updates
 I am committed to keeping this portfolio up-to-date with the latest projects and developments. The website is continuously updated to reflect new skills, achievements, and enhancements. Please check back regularly to see the latest updates and additions.
 
-# Getting in Touch
-For any inquiries or to connect with me, please use the contact form available on the website. I am always open to discussing opportunities, collaborations, or feedback.
-
 # Future Enhancements
 I am planning to add the following features in upcoming updates:
   - Interactive Elements: Integration of interactive elements to enhance user engagement.
