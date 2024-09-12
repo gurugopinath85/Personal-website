@@ -1,4 +1,4 @@
-## Personal Portfolio Website
+# Personal Portfolio Website
 Welcome to my personal portfolio website! This site showcases my work, projects, and achievements, reflecting my journey and skills in technology and design.
 
 # Overview
