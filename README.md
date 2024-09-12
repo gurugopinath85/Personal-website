@@ -14,7 +14,7 @@ This portfolio is designed to provide a comprehensive view of my professional ex
   - Frontend: Developed using modern web technologies including HTML, CSS, and JavaScript. The design is focused on user experience and accessibility.
   - Backend: Powered by Node.js to handle server-side functionality and Nodemailer to manage email communications.
     
-# Backend Details
+# Backend Details (Not uploaded)
  - The backend of the site is built with Node.js and includes the following features:
     - Nodemailer Integration: Utilized Nodemailer to implement a robust contact form that sends emails directly to my inbox. This feature ensures that all messages from visitors are securely and efficiently handled.
     - Server-Side Logic: Node.js provides the foundation for handling requests and processing data, enabling dynamic interactions and functionality on the site.
