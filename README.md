@@ -7,6 +7,7 @@ This portfolio is designed to provide a comprehensive view of my professional ex
 The code for this site was based heavily off of the following two HTML/CSS templates to which I made some tweaks. (I mainly used them for starting structure):
 
 https://www.free-css.com/free-css-templates/page237/n5
+
 http://www.tooplate.com/view/2087-kalay
 
 # Features
