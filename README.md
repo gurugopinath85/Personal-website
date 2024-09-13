@@ -4,9 +4,7 @@ Welcome to my personal portfolio website! This site showcases my work, projects,
 # Overview
 This portfolio is designed to provide a comprehensive view of my professional experience, skills, and the projects I am passionate about. The website features a simple, user-friendly interface that highlights my work.
 
-The code for this site was based heavily off of the following two HTML/CSS templates to which I made some tweaks. (I mainly used them for starting structure):
-
-https://www.free-css.com/free-css-templates/page237/n5
+The code for this site was based heavily off of the following HTML template to which I made some tweaks. (I mainly used them for starting structure):
 
 http://www.tooplate.com/view/2087-kalay
 
